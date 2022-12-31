@@ -44,6 +44,11 @@
     background: none;
 }
 
+.input-box::placeholder{
+    color: black;
+    opacity: 1;
+}
+
 .input-box:focus{
     outline: none;
 }
